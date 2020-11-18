@@ -1,0 +1,299 @@
+.colors{
+    margin-top: 50px;
+}
+
+.headingss1{
+    text-align: center;
+    font-weight: bold;
+    color: grey;
+    margin-top: 70px;
+}
+.heading1{
+    margin-left: 40px;
+    margin-top: 20px;
+    font-weight: bold;
+}
+
+
+.line{
+    width: 980px;
+    margin-right: 950px;
+    margin-top: 40px;
+    border-top: 2px solid rgb(228, 224, 224);
+    
+}
+.items1{
+    background-color: rgb(7, 7, 58);
+    border: none;
+    border: 30px;
+    color: white;
+    padding: 5px 6px;
+    font-size: 12px;
+    text-decoration: none;
+    margin-left: 180px;
+    margin-top: 23px;
+    
+}
+.items2{
+    background-color: rgb(7, 7, 58);
+    border: none;
+    border: 30px;
+    color: white;
+    padding: 5px 6px;
+    font-size: 12px;
+    text-decoration: none;
+    margin-left: 10px;
+    margin-top: 23px;
+}
+.items3{
+    background-color: rgb(7, 7, 58);
+    border: none;
+    border: 30px;
+    color: white;
+    padding: 5px 6px;
+    font-size: 17px;
+    text-decoration: none;
+    margin-left: 10px;
+    margin-top: 23px;
+}
+.oops{
+    list-style-type: none;
+    display: flex;
+    /* p
+    adding-right: 0.5  2px; */
+}
+.root{
+    margin-left: 12px;
+    margin-top: 20px;
+    width: 270px;
+}
+.root1{
+    margin-left: 52px;
+    margin-top: 20px;
+    width: 270px;
+
+}
+.root2{
+    margin-left: 12px;
+    margin-top: 20px;
+    width: 270px;
+
+}
+.root3{
+    margin-left: 52px;
+    margin-top: 20px;
+    width: 270px;
+
+}
+.root4{
+    margin-left: 92px;
+    margin-top: 20px;
+    width: 270px;
+
+}
+
+.shifts1{
+    height: 140px;
+    width: 300px;
+}
+.fixeds1{
+    margin-bottom: 20px;
+    font-size: 18px
+}
+.icons1{
+   margin-left: 48px;
+}
+.icons2{
+    margin-left: 43px;
+ }
+ .icons3{
+    margin-left: 73px;
+ }
+ .icons4{
+    margin-left: 127px;
+ }
+ .icons5{
+    margin-left: 40px;
+ }
+.contents1{
+    font-size: 14px;
+    padding: 5px;
+}
+.get{
+    font-size: 14px;
+    color: chocolate;
+    margin-left: 72px;
+}
+ 
+/* Buiseness services */
+
+
+.heading2{
+    margin-left: 40px;
+    margin-top: 50px;
+    font-weight: bold;
+}
+
+.line1{
+    width: 980px;
+    margin-right: 950px;
+    margin-top: 70px;
+    border-top: 2px solid rgb(228, 224, 224);
+    
+}
+
+.items4{
+    background-color: rgb(7, 7, 58);
+    border: none;
+    border: 30px;
+    color: white;
+    padding: 5px 6px;
+    font-size: 12px;
+    text-decoration: none;
+    margin-left: 180px;
+    margin-top: 50px;
+    
+}
+.items5{
+    background-color: rgb(7, 7, 58);
+    border: none;
+    border: 30px;
+    color: white;
+    padding: 5px 6px;
+    font-size: 12px;
+    text-decoration: none;
+    margin-left: 10px;
+    margin-top: 50px;
+}
+.items6{
+    background-color: rgb(7, 7, 58);
+    border: none;
+    border: 30px;
+    color: white;
+    padding: 5px 6px;
+    font-size: 17px;
+    text-decoration: none;
+    margin-left: 10px;
+    margin-top: 50px;
+}
+
+
+
+
+
+
+
+
+
+.share{
+    margin-left: 260px;
+}
+.cards1{
+    margin-top: 40px;
+    margin-left: 5px;
+}
+.roots1{
+    margin-left: 12px;
+    margin-top: 20px;
+    width: 300px;
+    height: 350px;
+}
+.shiftss1{
+    margin: 50px;
+    margin-left: 5px;
+    height: 170px;
+}
+.shiftss2{
+    margin: 50px;
+    margin-left: 10px;
+    height: 100px;
+}
+.shiftss3{
+    margin-top: 20px;
+    margin-left: 80px;
+    height: 250px;
+}
+.shiftss4{
+    margin-top: 100px;
+    margin-left: 10px;
+    height: 100px;
+}
+.divide1{
+    margin-top: 0px;
+    margin-right: 20px;
+   width: 300px ;
+   border-top: 1px solid rgb(228, 224, 224);
+ 
+}
+.divide3{
+    margin-top: 70px;
+    margin-right: 20px;
+   width: 300px ;
+   border-top: 1px solid rgb(228, 224, 224);
+ 
+}
+.divide2{
+    margin-top: 70px;
+    margin-right: 20px;
+   width: 300px ;
+   border-top: 1px solid rgb(228, 224, 224);
+ 
+}
+.rentals1{
+    margin-top: 10px;
+    margin-left: 90px;
+    color: grey;
+    font-size: 20px;
+}
+
+.line5{
+    width: 990px;
+    margin-right: 990px;
+    margin-top: 40px;
+    border-top: 2px solid rgb(228, 224, 224);
+}
+
+
+.roots2{
+    margin-left: 15px;
+    margin-top: 20px;
+    width: 250px;
+    height: 200px;
+}
+.roots3{
+    margin-left: 65px;
+    margin-top: 20px;
+    width: 250px;
+    height: 200px;
+}
+.roots4{
+    margin-left: 110px;
+    margin-top: 20px;
+    width: 250px;
+    height: 200px;
+}
+.roots5{
+    margin-left: 160px;
+    margin-top: 20px;
+    width: 250px;
+    height: 200px;
+}
+.roots6{
+    margin-left: 200px;
+    margin-top: 20px;
+    width: 250px;
+    height: 200px;
+}
+.shiftss21{
+    
+    
+   width: 280px;
+    height: 200px;
+
+}
+
+/* .textimage{
+    position: absolute;
+ bottom: 1px;
+  left: 16px;
+} */
